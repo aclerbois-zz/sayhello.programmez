@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <PackAsTool>true</PackAsTool>
+    <ToolCommandName>hello-programmez</ToolCommandName>
+    <PackageOutputPath>../nupkgs</PackageOutputPath>
+    <Version>1.1.0</Version>
+  </PropertyGroup>
+
+</Project>
